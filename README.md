@@ -178,11 +178,11 @@
 <h4>页面-系统首页</h4>
 <p><a href="https://geekcode.top/archives/ssm%E9%9F%B3%E4%B9%90%E7%BD%91%E7%AB%99?utm_source=github" title="查看完整源码"><img src="images/16.jpg" alt="页面-系统首页"></a></p>
 <h4>页面-[登陆]</h4>
-<p><a href="https://geekcode.top/archives/ssm%E9%9F%B3%E4%B9%90%E7%BD%91%E7%AB%99?utm_source=github" title="查看完整源码"><img src="https://geekcode.top./admin-%5B%E7%99%BB%E9%99%86%5D.png" alt="页面-[登陆]"></a></p>
+<p><a href="https://geekcode.top/archives/ssm%E9%9F%B3%E4%B9%90%E7%BD%91%E7%AB%99?utm_source=github" title="查看完整源码"></a></p>
 <h4>页面-[用户注册]</h4>
-<p><a href="https://geekcode.top/archives/ssm%E9%9F%B3%E4%B9%90%E7%BD%91%E7%AB%99?utm_source=github" title="查看完整源码"><img src="https://geekcode.top./admin-%5B%E7%94%A8%E6%88%B7%E6%B3%A8%E5%86%8C%5D.png" alt="页面-[用户注册]"></a></p>
+<p><a href="https://geekcode.top/archives/ssm%E9%9F%B3%E4%B9%90%E7%BD%91%E7%AB%99?utm_source=github" title="查看完整源码"></a></p>
 <h4>页面-[音乐人注册]</h4>
-<p><a href="https://geekcode.top/archives/ssm%E9%9F%B3%E4%B9%90%E7%BD%91%E7%AB%99?utm_source=github" title="查看完整源码"><img src="https://geekcode.top./admin-%5B%E9%9F%B3%E4%B9%90%E4%BA%BA%E6%B3%A8%E5%86%8C%5D.png" alt="页面-[音乐人注册]"></a></p>
+<p><a href="https://geekcode.top/archives/ssm%E9%9F%B3%E4%B9%90%E7%BD%91%E7%AB%99?utm_source=github" title="查看完整源码"></a></p>
 <h4>页面-网站公告</h4>
 <p><a href="https://geekcode.top/archives/ssm%E9%9F%B3%E4%B9%90%E7%BD%91%E7%AB%99?utm_source=github" title="查看完整源码"><img src="images/17.jpg" alt="页面-网站公告"></a></p>
 <h4>页面-我要留言</h4>
